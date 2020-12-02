@@ -311,7 +311,7 @@ body {
 }
 
 .main {
-  background-image: url(../img/main/bg.jpg);
+  background-image: url(../img/main/bg.webp);
   background-size: cover;
 }
 
@@ -995,7 +995,7 @@ body {
   }
 }
 @supports (-webkit-appearance:none){
-.main{background-image:url(../img/main/bg.jpg)}
+
 }
 
  @media (max-width: 992px){
